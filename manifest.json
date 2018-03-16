@@ -1,0 +1,8 @@
+{
+    "name" : "Pay with alpina",
+    "short_name" : "AlpinaPay",
+    "serviceworker" : {
+        "src" : "sw-alpinaPay.js",
+        "use_cache" : false
+    }
+}
